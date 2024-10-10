@@ -2,18 +2,18 @@
 This application will have the ability to analyze money spending trends
 while gathering information to help the user save more.
 
-# Tech Stack
-## Backend
+## Tech Stack
+**Backend**<br/>
 Python
 
-## Frontend
+**Frontend** <br/>
 ReactTS, TailwindCSS
 
-## Database
+**Database**<br/>
 Supabase
 
-## Devops and Deployment
+**Devops and Deployment**<br/>
 Docker
 
-## Security
+**Security**<br/>
 OAuth2 and JWT
